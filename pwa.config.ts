@@ -7,7 +7,7 @@ export default {
   description: 'Actualité des Tic au Maroc et ailleurs',
   direction: 'auto',
   language: 'fr-FR',
-  backgroundColor: '#fff',
+  backgroundColor: '#209CEE',
   themeColor: '#fff',
   display: 'standalone',
   orientation: 'any',
